@@ -1,0 +1,7 @@
+#+title: Jinko-mode
+
+Emacs language mode for the Jinko programming language.
+
+* Features
+
+- Syntax highlighting (In Progress)
